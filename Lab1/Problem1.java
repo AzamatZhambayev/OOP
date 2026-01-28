@@ -1,4 +1,4 @@
-public class PrintMyName {
+public class Problem1 {
     public static void main(String[] args) {
         String name = "Zhambik";   // change to your name
         int len = name.length();
